@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto;
+  color: #000;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.container-1 {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.container-2 {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 20px;
+  line-height: 120%;
+}
+

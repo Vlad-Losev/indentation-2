@@ -1,0 +1,25 @@
+.result {
+  border-radius: 10px;
+  background-color: #F1F1F1;
+  padding: 25px 45px;
+  margin-bottom: 50px;
+}
+
+.result__title {
+  font-size: 44px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.result__list {
+  margin-bottom: 30px;
+}
+
+.result__item {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.result__item:last-child {
+  margin-bottom: 0;
+}

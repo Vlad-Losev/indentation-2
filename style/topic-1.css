@@ -1,0 +1,24 @@
+.topic-1 {
+  margin-bottom: 50px;
+}
+
+.topic-1__title {
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 30px; 
+}
+
+.topic-1__block-1 {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.topic-1__p:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.topic-1__block-2 {
+  display: flex;
+  gap: 40px;
+}
